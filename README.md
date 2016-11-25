@@ -56,3 +56,4 @@ The dataset used in this project is included as `student-data.csv`. This dataset
 - `passed` : did the student pass the final exam (binary: yes or no)
 
 ### License
+The contents of this repository are covered under the [MIT License](LICENSE)
